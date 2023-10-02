@@ -3,20 +3,30 @@ Models to Identify Common Pathways and Druggable Targets" presented at EMBL-EBI 
 October 2023. 
 
 1. Skre. H. Genetic and clinical aspects of Charcot-Marie-Tooth's disease. Clin Genet. 1974;6(2):98-118. Epub 1974/01/01.doi:10.1111/j.1399-0004.1974.tb00638.x.PubMed PMID:4430158. 
-1. Zuchner, S. (2010) Peripheral neuropathies: whole genome sequencing identifies causal variants in CMT. Nat Rev Neurol 6, 424-425. 
-2. Saporta, A. S., et al. (2011) Charcot-Marie-Tooth disease subtypes and genetic testing strategies. Ann Neurol 69, 22-33. 
-3. Bacquet, J., et al. (2018) Molecular diagnosis of inherited peripheral neuropathies by targeted next-generation sequencing: molecular spectrum delineation. BMJ Open 8, e021632.
-4. Saporta, M. A., and Shy, M. E. (2013) Inherited peripheral neuropathies. Neurol Clin 31, 597-619.
-5. Neff, R. A., et al. (2021) Molecular subtyping of Alzheimer's disease using RNA sequencing data reveals novel mechanisms and targets. Sci Adv 7.
+2. Saporta, M. A., and Shy, M. E. (2013) Inherited peripheral neuropathies. Neurol Clin 31, 597-619.
+3. Zuchner, S. (2010) Peripheral neuropathies: whole genome sequencing identifies causal variants in CMT. Nat Rev Neurol 6, 424-425. 
+4. Saporta, A. S., et al. (2011) Charcot-Marie-Tooth disease subtypes and genetic testing strategies. Ann Neurol 69, 22-33. 
+5. Bacquet, J., et al. (2018) Molecular diagnosis of inherited peripheral neuropathies by targeted next-generation sequencing: molecular spectrum delineation. BMJ Open 8, e021632.
 6. Martin, P. B., et al. (2020) Overlapping spectrums: The clinicogenetic commonalities between Charcot-Marie-Tooth and other neurodegenerative diseases. Brain Res 1727, 146532. 
-7. Guedj, et al. (2012) A refined molecular taxonomy of breast cancer. Oncogene 31, 1196-1206. 
-8. Tam, O. H., et al. (2019) Postmortem Cortex Samples Identify Distinct Molecular Subtypes of ALS: Retrotransposon Activation, Oxidative Stress, and Activated Glia. Cell Rep 29, 1164-1177 e1165.
-9. J. Guinney, et al. (2015) The consensus molecular subtypes of colorectal cancer, Nat Med 21(11) 1350-6.
-10. Sveen, A., et al. (2018) Colorectal Cancer Consensus Molecular Subtypes Translated to Preclinical Models Uncover Potentially Targetable Cancer Cell Dependencies, Clin Cancer Res 24(4) 794-806.
-11. Stelzer, G., et al. (2016) The GeneCards Suite: From Gene Data Mining to Disease Genome Sequence Analyses, Curr Protoc Bioinformatics 54 1 30 1-1 30 33.
-12. Tadenev, A.L.D. and R.W. Burgess. (2019) Model validity for preclinical studies in precision medicine: precisely how precise do we need to be?, Mamm Genome 30(5-6) 111-122.
-13. Verhamme, C., et al. (2011) Myelin and axon pathology in a long-term study of PMP22-overexpressing mice, J Neuropathol Exp Neurol 70(5) 386-98.
-14. Baker, E., et al. (2016) GeneWeaver: data driven alignment of cross-species genomics in biology and disease, Nucleic Acids Res 44(D1) D555-9.
-15. Spaulding, E.L., et al. (2021) The integrated stress response contributes to tRNA synthetase-associated peripheral neuropathy, Science 373(6559) 1156-1161.
-16. Fledrich, R., et al. (2018) Targeting myelin lipid metabolism as a potential therapeutic strategy in a model of CMT1A neuropathy, Nat Commun 9(1) 3025.
-17. Mukherjee-Clavin, B., et al. (2019) Comparison of three congruent patient-specific cell types for the modelling of a human genetic Schwann-cell disorder, Nat Biomed Eng 3(7)571-582.
+7. Spaulding, E.L., et al. (2021) The integrated stress response contributes to tRNA synthetase-associated peripheral neuropathy, Science 373(6559) 1156-1161.
+8. Pisciotta C, Saveri P, Pareyson D. Challenges in Treating Charcot-Marie-Tooth Disease and Related Neuropathies: Current Management and Future Perspectives. Brain Sci. 2021;11(11). Epub 2021/11/28. doi: 10.3390/brainsci11111447. PubMed PMID: 34827446; PMCID: PMC8615778.
+9. Benoy V, Van Helleputte L, Prior R, d'Ydewalle C, Haeck W, Geens N, Scheveneels W, Schevenels B, Cader MZ, Talbot K, Kozikowski AP, Vanden Berghe P, Van Damme P, Robberecht W, Van Den Bosch L. HDAC6 is a therapeutic target in mutant GARS-induced Charcot-Marie-Tooth disease. Brain. 2018;141(3):673-87. Epub 2018/02/08. doi: 10.1093/brain/awx375. PubMed PMID: 29415205; PMCID: PMC5837793.
+10.	Prior R, Van Helleputte L, Klingl YE, Van Den Bosch L. HDAC6 as a potential therapeutic target for peripheral nerve disorders. Expert Opin Ther Targets. 2018;22(12):993-1007. Epub 2018/10/27. doi: 10.1080/14728222.2018.1541235. PubMed PMID: 30360671.
+11.	Gilley J, Ribchester RR, Coleman MP. Sarm1 Deletion, but Not Wld(S), Confers Lifelong Rescue in a Mouse Model of Severe Axonopathy. Cell Rep. 2017;21(1):10-6. Epub 2017/10/06. doi: 10.1016/j.celrep.2017.09.027. PubMed PMID: 28978465; PMCID: PMC5640801.
+12.	Gilley J, Orsomando G, Nascimento-Ferreira I, Coleman MP. Absence of SARM1 rescues development and survival of NMNAT2-deficient axons. Cell Rep. 2015;10(12):1974-81. Epub 2015/03/31. doi: 10.1016/j.celrep.2015.02.060. PubMed PMID: 25818290; PMCID: PMC4386025.
+13.	Sasaki Y, Nakagawa T, Mao X, DiAntonio A, Milbrandt J. NMNAT1 inhibits axon degeneration via blockade of SARM1-mediated NAD(+) depletion. Elife. 2016;5. Epub 2016/10/14. doi: 10.7554/eLife.19749. PubMed PMID: 27735788; PMCID: PMC5063586.
+14.	Moss KR, Hoke A. Targeting the programmed axon degeneration pathway as a potential therapeutic for Charcot-Marie-Tooth disease. Brain Res. 2020;1727:146539. Epub 2019/11/07. doi: 10.1016/j.brainres.2019.146539. PubMed PMID: 31689415; PMCID: PMC6939145.
+15. Baker, E., et al. (2016) GeneWeaver: data driven alignment of cross-species genomics in biology and disease, Nucleic Acids Res 44(D1) D555-9.
+16. Yuqing Zhang, Giovanni Parmigiani, W Evan Johnson, ComBat-seq: batch effect adjustment for RNA-seq count data, NAR Genomics and Bioinformatics, Volume 2, Issue 3, September 2020, lqaa078, https://doi.org/10.1093/nargab/lqaa078
+
+Additional Conceptual References (not directly cited)
+17. Neff, R. A., et al. (2021) Molecular subtyping of Alzheimer's disease using RNA sequencing data reveals novel mechanisms and targets. Sci Adv 7.
+18. Guedj, et al. (2012) A refined molecular taxonomy of breast cancer. Oncogene 31, 1196-1206. 
+19. Tam, O. H., et al. (2019) Postmortem Cortex Samples Identify Distinct Molecular Subtypes of ALS: Retrotransposon Activation, Oxidative Stress, and Activated Glia. Cell Rep 29, 1164-1177 e1165.
+20. J. Guinney, et al. (2015) The consensus molecular subtypes of colorectal cancer, Nat Med 21(11) 1350-6.
+21. Sveen, A., et al. (2018) Colorectal Cancer Consensus Molecular Subtypes Translated to Preclinical Models Uncover Potentially Targetable Cancer Cell Dependencies, Clin Cancer Res 24(4) 794-806.
+22. Stelzer, G., et al. (2016) The GeneCards Suite: From Gene Data Mining to Disease Genome Sequence Analyses, Curr Protoc Bioinformatics 54 1 30 1-1 30 33.
+23. Tadenev, A.L.D. and R.W. Burgess. (2019) Model validity for preclinical studies in precision medicine: precisely how precise do we need to be?, Mamm Genome 30(5-6) 111-122.
+24. Verhamme, C., et al. (2011) Myelin and axon pathology in a long-term study of PMP22-overexpressing mice, J Neuropathol Exp Neurol 70(5) 386-98.
+25. Fledrich, R., et al. (2018) Targeting myelin lipid metabolism as a potential therapeutic strategy in a model of CMT1A neuropathy, Nat Commun 9(1) 3025.
+26. Mukherjee-Clavin, B., et al. (2019) Comparison of three congruent patient-specific cell types for the modelling of a human genetic Schwann-cell disorder, Nat Biomed Eng 3(7)571-582.
